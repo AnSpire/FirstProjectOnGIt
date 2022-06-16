@@ -4,5 +4,6 @@ int main()
 {
 	cout<<endl;
 	int a = 2+3; 
+	cout<<a<<endl;
 	return 0; 
 }
