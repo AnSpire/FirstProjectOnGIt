@@ -4,7 +4,6 @@ int main()
 {
 	cout<<endl;
 	int a = 2+3; 
-	int b = a+5; 
-	cout<<a<<endl;
+	cout<<"some updates from first user"; 
 	return 0; 
 }
